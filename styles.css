@@ -39,3 +39,16 @@ color: #fff !important;
 .banner {
     background-color: #eae7dc;
 }
+
+/* icon */
+.icon {
+    color:#ffff;
+    background-color: #2299aa;
+    height: 50px;
+    max-width: 50px;
+    width: 100% !important;
+    margin: auto;
+    padding: 12px;
+    background-size: 20px;
+    border-radius: 28px;
+}
