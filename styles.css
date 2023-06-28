@@ -47,8 +47,8 @@ color: #fff !important;
     height: 50px;
     max-width: 50px;
     width: 100% !important;
-    margin: auto;
-    padding: 12px;
-    background-size: 20px;
+    margin: auto !important;
+    padding: 17px;
+    background-size: 20%;
     border-radius: 28px;
 }
