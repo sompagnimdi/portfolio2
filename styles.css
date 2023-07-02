@@ -36,7 +36,7 @@ color: #fff !important;
 
 /* banner */
 
-.banner #my-project{
+.banner, #my-project, #pricing{
     background-color: #eae7dc;
 }
 
@@ -51,4 +51,10 @@ color: #fff !important;
     padding: 17px;
     background-size: 20%;
     border-radius: 28px;
+}
+
+/* hr */
+hr {
+    margin-left: 4rem;
+    margin-right: 4rem;
 }
