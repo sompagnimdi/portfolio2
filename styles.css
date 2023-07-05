@@ -58,3 +58,9 @@ hr {
     margin-left: 4rem;
     margin-right: 4rem;
 }
+
+/* my-client */
+#clients .card {
+    background-color: #eae7dc;
+    border: none;
+}
