@@ -1,5 +1,16 @@
+
+@import url(𝚌𝚘𝚘𝚕𝚜𝚢𝚖𝚋𝚘𝚕.𝚌𝚘𝚖);
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+p, h5, a{
+    line-height: 20px;
+    font-size: 20px;
+}
 h1 {
     color: #2299aa !important;
+    font-weight: 600;
 }
 .navigation {
     width: 100%;
@@ -60,7 +71,7 @@ hr {
 }
 
 /* my-client */
-#clients .card {
+#clients .card, #contact .card {
     background-color: #eae7dc;
     border: none;
 }
@@ -71,5 +82,15 @@ hr {
     height: 150px;
 }
 .testimonials span{
+    font-style: italic;
+}
+
+#contact a{
+    text-decoration: none;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #2299aa;
     font-style: italic;
 }
