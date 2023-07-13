@@ -36,7 +36,7 @@ color: #fff !important;
 
 /* banner */
 
-.banner, #my-project, #pricing{
+.banner, #my-project, #pricing, .testimonials{
     background-color: #eae7dc;
 }
 
@@ -63,4 +63,13 @@ hr {
 #clients .card {
     background-color: #eae7dc;
     border: none;
+}
+
+/* testimonials */
+.testimonials img{
+    border-radius: 5rem;
+    height: 150px;
+}
+.testimonials span{
+    font-style: italic;
 }
